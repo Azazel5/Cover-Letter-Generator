@@ -1,0 +1,53 @@
+Subhanga Upadhyay Email: subhanga2013@gmail.com
+linkedin.com/in/subhanga-upadhyay Mobile: +1 (603) 866-0730
+github.com/Azazel5
+portfolio.page/about, technical.blog/leetcode
+Education
+• Tufts University Medford, MA
+Master of Science - Computer Science Jan 2025 - Dec 2026
+• University of Minnesota - Twin Cities Minneapolis, MN
+Bachelor of Science - Computer Science Sept 2018 - Dec 2021
+Experience
+•
+•
+JumboCode Medford, MA
+Tech lead August 2025 -
+◦ Lead a team of 7 developers to architect and build a web-based digital archive and portfolio platform for the
+non-profit Artists For Humanity (AFH), enabling young artists to showcase their work for collegiate and
+professional opportunities
+◦ Mentor junior engineers on software engineering best practices, including code reviews, version control with Git,
+and agile methodologies to ensure the delivery of high-quality, maintainable code
+◦ Collaborate with project managers and UX designers to translate client requirements into a data-centric
+architecture, designing schemas for artwork metadata and planning for future ML-powered features like
+automated content tagging
+Concord USA Hopkins, MN
+Software Engineer Feb 2022 - April 2024
+◦ Engineered and scaled mission-critical ETL pipelines using Azure Databricks, processing terabytes of data to
+support business intelligence for 20+ healthcare clients; optimized Power BI aggregation models to slash data
+report load times by 30%
+◦ Designed and deployed a scalable microservices architecture using Spring Boot and MongoDB that served as the
+backbone for an insurance enrollment system, impacting over 30 million users across 40 states
+• Augmend Kathmandu, Nepal
+Full-stack Software Engineer Jun 2019 - Sept 2019
+◦ Boosted performance of a core Python data processing service by over 60 seconds per execution by implementing
+multi-threading, saving over 10 engineering hours monthly
+Skills Summary
+◦ ML & Data Science: PyTorch, Scikit-learn, Hugging Face Transformers, Pandas, NumPy, Scipy, Matplotlib
+◦ Languages & Backend: Python, TypeScript/JavaScript, Java, SQL, Go, Spring Boot, FastAPI
+◦ MLOps & Cloud: Docker, Git, Azure (Databricks, Data Factory), AWS (S3, EC2), CI/CD, REST APIs
+◦ Databases: PostgreSQL, MongoDB, Redis
+Projects
+◦ Spotify Audiobook Pipeline: Planned a project to deploy pipelines for audiobook content alongside feature extraction
+and genre classification using HuggingFace transformers and unsupervised learning. Coded this project for Spotify’s
+Backend Engineer, Audiobook position!
+Tech: FastAPI, HuggingFace, Librosa, Matplotlib, NumPy, Scikit-learn, Scipy, PyTorch, Transformers
+◦ Reading-Level Difficulty Classifier: Spearheaded a text classifier with a classmate using techniques such as Logistic
+Regression, hyperparameter optimization, and tokenization to automatically assess and categorize reading materials from
+various books into appropriate grade-level categories for school-aged children
+Tech: scikit-learn, NumPy, Pandas, Scipy
+◦ StockMaster/Bisogno di molti soldi: Pulled data from the Nepali stock market in a multi-threaded manner to employ
+trading and visualization techniques, such as correlation matrix, cumulative return calculation, daily returns, etc. Used the
+insights gained to increase profits and confidence in stock trading.
+Tech: Python, Seaborn, Matplotlib, Pandas
+Hobbies/Interests
+Philosophy • Brazilian Jiu Jitsu • Stand-up comedy

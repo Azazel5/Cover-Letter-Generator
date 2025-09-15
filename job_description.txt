@@ -1,0 +1,26 @@
+Our mission on the Advertising Product & Technology team is to build a next generation advertising platform that aligns with our unique value proposition for audio and video. We work to scale the user experience for hundreds of millions of fans and hundreds of thousands of advertisers. This scale brings unique challenges as well as tremendous opportunities for our artists and creators.
+We are looking for Data Scientists to join our multidisciplinary Advertising R&D Product Insights team. Opportunities are available on both our Ad Demand and Commercialization team, and our Ads Data Platform team.
+The Ad Demand and Commercialization enables the scaling and advancement of Spotify Advertising by working with our self-service advertising platform, Spotify Ads Manager. This team operates at the crossroads of R&D and the Ads business, providing key data and insights to a wide range of partners to help them understand the performance of Spotify Ads Manager and the advertiser experience with Spotify.
+The Ads Data Platform team is responsible for building our audience targeting products. You will support ML model development and the launch and evaluation of ad products powered by these models, servicing both brand and direct response advertisers. You will work alongside product managers, engineers, and product marketers, leading the development of our audience targeting offerings from a data science perspective.
+As part of the Advertising team, you’ll work on the latest advertising technologies to connect millions of brands to billions of fans. We’re paving the way for a sustainable global Spotify business that allows even more creators to make a living off their art. Join us and help build the product solutions that empower this!
+
+What You'll Do
+
+Partner with product, engineering, and marketing teams to solve complex challenges with data-driven solutions
+Analyze large datasets to generate insights that guide product, platform, and business decisions
+Define data requirements and support implementation for new product launches
+Build scalable solutions to surface key metrics, dashboards, and reporting tools
+Design and run experiments to improve user and advertiser outcomes
+Write efficient code (SQL, Python, R) for data extraction, analysis, and modeling
+Communicate insights clearly to both technical and non-technical partners
+Mentor peers while driving projects from scoping to delivery
+
+Who You Are
+
+You have 4+ years of data science experience and a degree in a quantitative field
+You are skilled in SQL, Python or R, and comfortable working with large, complex datasets
+You have experience with data visualization tools (Tableau, Looker, matplotlib)
+You bring strong knowledge of statistical analysis, machine learning, and advanced analytics
+You can translate complex ideas for diverse stakeholders
+You are a creative problem-solver who thrives in ambiguity and takes ownership from idea to impact
+You are curious, collaborative, and excited to help shape the future of Spotify Advertising
