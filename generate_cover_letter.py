@@ -115,15 +115,15 @@ if __name__ == "__main__":
     Dear Hiring Team,
 
         
-        Having followed your company's pioneering work in the field, I was particularly impressed by {ai_content['ai_hook_insight']}. This commitment to pushing boundaries resonates deeply with my own professional journey. My career has been a deliberate pursuit of deep expertise - from seeking a wealth of experiences in consulting to now pursuing a Master's degree to bridge the gap between complex business challenges and core machine learning engineering. This personal drive for constant improvement and excellence is why I am confident my skills are perfectly aligned with the challenges of the {args.job_title} position.
+    Having followed your company's pioneering work in the field, I was particularly impressed by {ai_content['ai_hook_insight']} This commitment to pushing boundaries resonates deeply with my own professional journey. My career has been a deliberate pursuit of deep expertise - from seeking a wealth of experiences in consulting to now pursuing a Master's degree to bridge the gap between complex business challenges and core machine learning engineering. This personal drive for constant improvement and excellence is why I am confident my skills are perfectly aligned with the challenges of the {args.job_title} position.
 
-        {ai_content['ai_skill_alignment_paragraph']}
+    {ai_content['ai_skill_alignment_paragraph']}
 
-        {ai_content['ai_quantifiable_achievement_paragraph']}
+    {ai_content['ai_quantifiable_achievement_paragraph']}
 
-        Beyond my technical skills, I am deeply drawn to the culture at {args.company}. {ai_content['ai_culture_fit_paragraph']} I am not just looking for another role; I am looking to join a team where my values of excellence and collaboration can contribute to a meaningful vision, and I believe your company is the ideal place for that.
+    Beyond my technical skills, I am deeply drawn to the culture at {args.company}. {ai_content['ai_culture_fit_paragraph']} I am not just looking for another role; I am looking to join a team where my values of excellence and collaboration can contribute to a meaningful vision, and I believe your company is the ideal place for that.
 
-        I am eager to discuss how my unique background and skills in software engineering can bring a valuable perspective to your team. Thank you for your time and consideration.
+    I am eager to discuss how my unique background and skills in software engineering can bring a valuable perspective to your team. Thank you for your time and consideration.
 
         
     With gratitude
