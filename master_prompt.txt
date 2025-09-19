@@ -29,4 +29,4 @@ Generate the four text blocks below, adhering strictly to the format and goals f
 **Format:** A full paragraph (maximum 3-4 sentences, approximately 60-80 words)
 [CULTURE_FIT_END]
 
-CRITICAL: Stay within character limits. Use active voice. Be specific, not generic.
+CRITICAL: Stay within character limits. Use active voice. Be specific, not generic. For each bullet point, prioritize pulling points from different experiences within the resume for a holistic candidate experience representation
