@@ -45,7 +45,7 @@ def read_file_content(filepath):
 def generate_custom_content(resume_text, job_desc_text):
     """Uses the Gemini API to generate four distinct cover letter components."""
 
-    model = genai.GenerativeModel('gemini-1.5-flash')
+    model = genai.GenerativeModel('gemini-2.0-flash')
     prompt_template = read_file_content('master_prompt.txt')
     prompt = prompt_template.format(
         resume_text=resume_text, job_desc_text=job_desc_text)
